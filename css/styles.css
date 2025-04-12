@@ -99,7 +99,7 @@ img {
 }
 
 .header-menu-link.current::after {
-    content:'';
+    content: '';
     width: 100%;
     position: absolute;
     left: 0px;
@@ -130,7 +130,6 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);  
 }
 
@@ -331,8 +330,11 @@ img {
     justify-content: center;
 }
 
-.soc-link:hover, 
-.soc-link:focus {
+.soc-link-use:hover {
+    background-color: #404bbf;
+}
+
+.soc-link-use:focus {
     background-color: #404bbf;
 }
 
