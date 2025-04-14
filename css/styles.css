@@ -96,6 +96,9 @@ img {
 .header-class {
     padding: 24px 0;
     position: relative;
+}
+
+.curent {
     color: #404bbf;
 }
 
