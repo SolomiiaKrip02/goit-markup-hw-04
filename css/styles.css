@@ -47,6 +47,7 @@ img {
 
 .container-one {
     display: flex;
+    align-items: center;
 }
 
 .header {
@@ -170,9 +171,7 @@ img {
     letter-spacing: 0.02em;
     color: #fff;
     max-width: 496px;
-    padding-bottom: 48px;
-    margin: 0px;
-
+    margin-bottom: 48px;
 }
 
 .hero-btn {
@@ -305,6 +304,7 @@ img {
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    margin-bottom: 8px;
 }
 
 .soc-list{
